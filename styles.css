@@ -35,3 +35,9 @@ body {
 .rating input:checked~label {
     color: gold;
 }
+
+.background {
+    background-image: url("img/638aaf0af3f20f7a32073ac60f66b0f9.webp");
+    width: 387px;
+    height: 750px;
+}
